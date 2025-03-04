@@ -1,13 +1,9 @@
 **CROWDSOURCING CHALLENGE : Airport Throughput Prediction: University Challenge**
 
-**Project Synopsis**
-The purpose of this project is to develop a   or another approach (TBD), using data from the National Airspace System (NAS), to predict  the arrival throughput of an airport in the near future.
-
-**Background of the Problem**
-The Digital Information Platform (DIP) Sub-Project of Air Traffic Management - eXploration (ATM-X) machine learning model is seeking to make available in the NAS a variety of live data feeds and services built on that data. The goal is to allow external partners to build advanced, data-driver services using this data, and to make these services available to flight operators, who will use these capabilities to save fuel and avoid delays. Different wind directions, weather conditions at or near the airport, inoperative runway, etc., affects the runway configurations to be used and impacts the overall arrival throughputs. Knowing the arrival runway and its congestion level ahead of time will enable a pilot to perform a better flight planning and improve the flight efficiency. This competition seeks to make better predictions of runway throughputs using machine learning or other techniques.
-
 **Project Description**
-Given a collection of NAS data on traffic, airport status, etc., plus weather data from a variety of sources, build a machine learning model which predicts the number of aircraft that will land at a given airport in the near future (~3-5 hours in the future.
+The Digital Information Platform (DIP) Sub-Project of Air Traffic Management - eXploration (ATM-X) is seeking to make available in the National Airspace System a variety of live data feeds and services built on that data. The goal is to allow external partners to build advanced, data-driven services using this data, and to make these services available to flight operators, who will use these capabilities to save fuel and avoid delays. Different wind directions, weather conditions at or near the airport, inoperative runway, etc., affects the runway configurations to be used and impacts the overall arrival throughputs. Knowing the arrival runway and its congestion level ahead of time will enable aviation operators to perform a better flight planning and improve the flight efficiency. This competition seeks to make better predictions of runway throughputs using machine learning or other techniques. The total prize pool for this competition is $120,000.
+
+The crowdsourcing competition engaged students, faculty members and other individuals employed by United States universities to develop a machine learning model that provides a short-term forecast of estimated airport runway throughput using simulated real-time information from historical NAS and weather forecast data, as well as other factors such as meteorological conditions, airport runway configuration, and airspace congestion.
 
 **Winner Details**
 
