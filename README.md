@@ -11,20 +11,18 @@ Given a collection of NAS data on traffic, airport status, etc., plus weather da
 
 **Winner Details**
 
-Team Lead First Name	Team Lead Last Name	University Affiliation
+First - Matthew	Motoki	@ University of Washington
 
-Matthew	Motoki	University of Washington
+Second - Julia	Chuzhoy	@ University of Chicago
 
-Julia	Chuzhoy	University of Chicago
+Third - Brian	Hu	@ California Institute of Technology
 
-Brian	Hu	California Institute of Technology
+Fourth - Nika	Chuzhoy	@ California Institute of Technology
 
-Nika	Chuzhoy	California Institute of Technology
+Fifth - Donald Rea	@ Michigan State University
 
-Donald	Rea	Michigan State University
+Sixth - Jakapop	Khongnawang	@ University of Hawaii
 
-Jakapop	Khongnawang	University of Hawaii
+Seventh - Sarah	Ming-Xin Zhao	@ Stanford University
 
-Sarah	Ming-Xin Zhao	Stanford University
-
-Ilan	Upfal	Massachusetts Institute of Technology
+Eight - Ilan	Upfal	@ Massachusetts Institute of Technology
